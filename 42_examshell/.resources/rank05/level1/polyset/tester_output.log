@@ -1,0 +1,11 @@
+[0;34m🔍 Running COMPREHENSIVE TESTING for polyset[0m
+==========================================
+
+[0;34m📦 Compiling reference solution...[0m
+[0;32m✅ Reference compilation successful![0m
+
+[0;34m📦 Compiling user solution...[0m
+g++: error: /tmp/tmp.2FkwiSLzpx/searchable_array_bag.cpp: No such file or directory
+g++: error: /tmp/tmp.2FkwiSLzpx/searchable_tree_bag.cpp: No such file or directory
+g++: error: /tmp/tmp.2FkwiSLzpx/set.cpp: No such file or directory
+[0;31m❌ User compilation failed![0m
